@@ -137,7 +137,7 @@ image_path = askopenfilename(filetypes=[("PNG files", "*.png")])
 
 3. Run the script:
     ```bash
-    python steganography.py
+    python stegano.py
     ```
 
 4. When prompted:
